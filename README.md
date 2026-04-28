@@ -62,12 +62,6 @@ The dataset includes:
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](./assets/dashboard.png)
-
----
-
 ## 📌 Insights & Findings
 
 * Weekends drive the highest sales volume
